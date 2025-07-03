@@ -45,6 +45,7 @@ Untuk menjalankan proyek ini di lingkungan lokal, ikuti langkah-langkah berikut:
 ```bash
 git clone https://github.com/AlvinoRD/vino-electron.git
 cd vino-electron
+cd electron-app
 ```
 
 ### Install dependensi
