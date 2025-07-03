@@ -49,29 +49,29 @@ cd electron-app
 ```
 
 ### Install dependensi
-Pastikan Anda memiliki Node.js dan pnpm terinstal.
+Pastikan Anda memiliki Node.js terinstal.
 
 ```bash
-pnpm install
+npm install
 ```
 
 ### Jalankan aplikasi dalam mode development
 
 ```bash
-pnpm dev
+npm run dev
 ```
 
 ### Untuk membuat build aplikasi
 
 ```bash
 # For Windows
-pnpm build:win
+npm run build:win
 
 # For macOS
-pnpm build:mac
+npm run build:mac
 
 # For Linux
-pnpm build:linux
+npm run build:linux
 ```
 
 ## Kontributor
