@@ -5,7 +5,10 @@ Selamat datang di repositori proyek UAS (Ujian Akhir Semester) untuk mata kuliah
 Aplikasi ini dirancang untuk memudahkan berbagi file melalui web server lokal, dengan antarmuka grafis yang intuitif untuk mengonfigurasi, memulai, menghentikan, dan memantau server.
 
 ## Demo Aplikasi
-![Screenshot Vino Server](https://via.placeholder.com/800x450.png?text=Vino+Server+Screenshot)
+![Screenshot 2025-07-03 110153](https://github.com/user-attachments/assets/2a48c566-02b6-48b8-99be-079b9983a2c2)
+![Screenshot 2025-06-25 145222](https://github.com/user-attachments/assets/68174570-85c8-479b-8bad-8eabaa1756dc)
+![Screenshot 2025-06-25 145337](https://github.com/user-attachments/assets/b02dfcaf-577b-427d-a52f-5d3bc21002f6)
+![Screenshot 2025-06-25 145316](https://github.com/user-attachments/assets/3e80c114-8e42-4120-b871-2eafb7b17939)
 
 ## Fitur Utama
 
